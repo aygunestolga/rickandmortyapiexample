@@ -1,0 +1,10 @@
+Bu projede Rick and Morty animasyonnun da ki karakterleri
+https://rickandmortyapi.com/documentation/#get-all-characters apisinden çekerek ekrana yansıtacağız
+bunu yaparken
+*JetpackCompose
+*LiveData
+*Retrofit
+*Coil
+*GSON converter
+*AndroidManifest sayfasından internet iznini açmayı unutmuyoruz
+                 ..... kullanacağız
